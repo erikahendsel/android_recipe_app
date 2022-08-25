@@ -10,5 +10,6 @@ data class RecipeModelClass(
     val ingredients: List<String>,
     val cookingSteps: List<String>,
     val tags: List<String>,
-    val time: String
+    val prepTime: String,
+    val cookTime: String
 )

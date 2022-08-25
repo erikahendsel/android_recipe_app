@@ -42,8 +42,9 @@ class MainActivity : AppCompatActivity() {
                 val cookingSteps = convertJSONArrayToStringList(recipe.getJSONArray("cookingSteps"))
                 val tags =  convertJSONArrayToStringList(recipe.getJSONArray("tags"))
                 Log.d("TAGS", "${tags}")
-                val time = recipe.getString("time")
-                val recipeDetails = RecipeModelClass(id, title, image, description, ingredients, cookingSteps, tags, time)
+                val prepTime = recipe.getString("prepTime")
+                val cookTime = recipe.getString("cookTime")
+                val recipeDetails = RecipeModelClass(id, title, image, description, ingredients, cookingSteps, tags, prepTime, cookTime)
                 recipeList.add(recipeDetails)
 
             }
@@ -60,17 +61,18 @@ class MainActivity : AppCompatActivity() {
         adapter.setOnItemClickListener(object : RecipeAdapter.OnRecipeClickListener {
             override fun onItemClick(position: Int) {
                 Toast.makeText(this@MainActivity, "You clicked $position", Toast.LENGTH_SHORT).show()
-                Log.d("RECIPELIST", "${recipeList[position].tags.toTypedArray().contentToString()}")
+                Log.d("RECIPELIST", "${recipeList[position].image} image")
 
 
                 Intent(this@MainActivity, RecipeDetails::class.java).also {
                     it.putExtra("RECIPE_TITLE", recipeList[position].title)
-//                    it.putExtra("RECIPE_IMAGE", recipeList[position].image)
+                    it.putExtra("RECIPE_IMAGE", recipeList[position].image)
                     it.putExtra("RECIPE_DESCRIPTION", recipeList[position].description)
                     it.putStringArrayListExtra("RECIPE_INGREDIENTS", ArrayList(recipeList[position].ingredients))
                     it.putStringArrayListExtra("RECIPE_COOKING_STEPS", ArrayList(recipeList[position].cookingSteps))
                     it.putStringArrayListExtra("RECIPE_TAGS", ArrayList(recipeList[position].tags))
-                    it.putExtra("RECIPE_TIME", recipeList[position].time)
+                    it.putExtra("RECIPE_PREP_TIME", recipeList[position].prepTime)
+                    it.putExtra("RECIPE_COOK_TIME", recipeList[position].cookTime)
                     startActivity(it)
                 }
             }
