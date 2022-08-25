@@ -5,19 +5,41 @@
       "title": "Mushroom soup",
       "image": "mushroom_soup",
       "description": "Make the most of mushrooms with this comforting mushroom soup recipe made with cream, onions and garlic. Serve for lunch or as a starter with crusty bread",
+      "ingredients": [
+        "90g butter",
+        "2 medium onions, roughly chopped",
+        "1 garlic clove, crushed",
+        "500g mushrooms, finely chopped (chestnut or button mushrooms work well)",
+        "2 tbsp plain flour",
+        "1l hot chicken stock",
+        "1 bay leaf",
+        "4 tbsp single cream",
+        "small handful flat-leaf parsley, roughly chopped, to serve (optional)"
+      ],
       "cookingSteps": [
         "STEP 1\nHeat the butter in a large saucepan and cook the onions and garlic until soft but not browned, about 8-10 mins.",
         "STEP 2\nAdd the mushrooms and cook over a high heat for another 3 mins until softened. Sprinkle over the flour and stir to combine. Pour in the chicken stock, bring the mixture to the boil, then add the bay leaf and simmer for another 10 mins.",
         "STEP 3\nRemove and discard the bay leaf, then remove the mushroom mixture from the heat and blitz using a hand blender until smooth. Gently reheat the soup and stir through the cream (or, you could freeze the soup at this stage – simply stir through the cream when heating). Scatter over the parsley, if you like, and serve."
       ],
       "tags": ["soup", "4 servings"],
-      "time": "35"
+      "time": "35 minutes"
     },
     {
       "id": "1",
       "title": "Meaty burger",
       "image": "mushroom_soup",
       "description": "lots of text here",
+      "ingredients": [
+        "90g butter",
+        "2 medium onions, roughly chopped",
+        "1 garlic clove, crushed",
+        "500g mushrooms, finely chopped (chestnut or button mushrooms work well)",
+        "2 tbsp plain flour",
+        "1l hot chicken stock",
+        "1 bay leaf",
+        "4 tbsp single cream",
+        "small handful flat-leaf parsley, roughly chopped, to serve (optional)"
+      ],
       "cookingSteps": [
         "1",
         "2"
@@ -30,6 +52,17 @@
       "title": "sheep burger",
       "image": "mushroom_soup",
       "description": "lots of text here",
+      "ingredients": [
+        "90g butter",
+        "2 medium onions, roughly chopped",
+        "1 garlic clove, crushed",
+        "500g mushrooms, finely chopped (chestnut or button mushrooms work well)",
+        "2 tbsp plain flour",
+        "1l hot chicken stock",
+        "1 bay leaf",
+        "4 tbsp single cream",
+        "small handful flat-leaf parsley, roughly chopped, to serve (optional)"
+      ],
       "cookingSteps": [
         "1",
         "2"

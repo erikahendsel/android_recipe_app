@@ -51,10 +51,11 @@ class RecipeAdapter(var context: Context, var items: ArrayList<RecipeModelClass>
             //val test = context.resources.getIdentifier(items[position].image, "drawable", context.packageName)
             //getResources().getIdentifier(recipe.getString("image"), "drawable", getPackageName());
 
-            Log.d("TESTING", "${items[position].image}")
+
 //            imgImage.setImageResource(items[position].image)
             imgImage.setImageDrawable(context.getDrawable(items[position].image))
             tvTitle.text = items[position].title
+            Log.d("WALI", "${items[position].tags}")
             tvTags.text = items[position].tags.toString()
 
         }
