@@ -18,11 +18,11 @@
       ],
       "cookingSteps": [
         "STEP 1",
-        "Heat the butter in a large saucepan and cook the onions and garlic until soft but not browned, about 8-10 mins.\n",
+        "Heat the butter in a large saucepan and cook the onions and garlic until soft but not browned, about 8-10 mins.",
         "STEP 2",
-        "Add the mushrooms and cook over a high heat for another 3 mins until softened. Sprinkle over the flour and stir to combine. Pour in the chicken stock, bring the mixture to the boil, then add the bay leaf and simmer for another 10 mins.\n",
+        "Add the mushrooms and cook over a high heat for another 3 mins until softened. Sprinkle over the flour and stir to combine. Pour in the chicken stock, bring the mixture to the boil, then add the bay leaf and simmer for another 10 mins.",
         "STEP 3",
-        "Remove and discard the bay leaf, then remove the mushroom mixture from the heat and blitz using a hand blender until smooth. Gently reheat the soup and stir through the cream (or, you could freeze the soup at this stage – simply stir through the cream when heating). Scatter over the parsley, if you like, and serve.\n"
+        "Remove and discard the bay leaf, then remove the mushroom mixture from the heat and blitz using a hand blender until smooth. Gently reheat the soup and stir through the cream (or, you could freeze the soup at this stage – simply stir through the cream when heating). Scatter over the parsley, if you like, and serve."
       ],
       "tags": [
         "4 servings",
@@ -574,7 +574,7 @@
         "one-pan",
         "chicken"
       ],
-      "prepTime": "30 mins (+ 1 hour)",
+      "prepTime": "30 mins",
       "cookTime": "1 hour",
       "author": "Paul Ainsworth",
       "link": "https://www.bbcgoodfood.com/recipes/one-pan-piri-piri-chicken-dinner"
@@ -714,699 +714,481 @@
     },
     {
       "id": "21",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "Chicken breast with avocado salad",
+      "image": "chicken_breast_with_avocado_salad",
+      "description": "A satisfying solo salad that's superhealthy - great for a busy worknight supper.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "1 skinless chicken breast",
+        "2 tsp olive oil (1 for the salad)",
+        "1 heaped tsp smoked paprika",
+        "",
+        "For the salad",
+        "",
+        "½ small avocado , diced",
+        "1 tsp red wine vinegar",
+        "1 tbsp flat-leaf parsley , roughly chopped",
+        "1 medium tomato , chopped",
+        "half small red onion , thinly sliced"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "Heat grill to medium. Rub the chicken all over with 1 tsp of the olive oil and the paprika. Cook for 4-5 mins each side until lightly charred and cooked through.",
+        "STEP 2",
+        "Mix the salad ingredients together, season and add the rest of the oil. thickly slice the chicken and serve with salad."
       ],
       "tags": [
         "1 serving",
         "easy",
-        "smoothie"
+        "salad",
+        "avocado",
+        "chicken"
       ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
+      "prepTime": "10 mins",
+      "cookTime": "10 mins",
       "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "link": "https://www.bbcgoodfood.com/recipes/chicken-breast-avocado-salad"
     },
     {
       "id": "22",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "Spicy courgette pitta pockets",
+      "image": "spicy_courgette_pitta_pockets",
+      "description": "Treat yourself to a solo supper of grilled vegetables, served in bread pockets with tahini, hummus, broad beans and harissa.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "1 courgette , trimmed and thinly sliced lengthways",
+        "2 tsp harissa paste",
+        "2 tsp olive oil",
+        "small handful broad beans (fresh or frozen)",
+        "2 tbsp hummus",
+        "1 spring onion , finely sliced",
+        "1 tsp tahini paste",
+        "small garlic clove , crushed",
+        "squeeze lemon juice",
+        "1 tbsp Greek-style yogurt",
+        "1 large wholemeal pitta bread"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "Toss the courgette slices in the harissa and olive oil, and season. Cook on a hot griddle pan for 2 mins each side or until tender. Transfer to a plate and set aside.",
+        "STEP 2",
+        "Cook the broad beans in boiling water for 2 mins, drain under cold running water, then slip them out of their outer skins. Discard the skins. Put the broad beans, hummus and spring onion in a small bowl and mix to combine.",
+        "STEP 3",
+        "In another bowl, mix the tahini, garlic, lemon juice and yogurt. Toast the pitta and split it to create 2 pockets. Spoon the hummus mix inside each pocket, followed by the spicy courgette slices and a drizzle of the yogurt mixture."
       ],
       "tags": [
         "1 serving",
         "easy",
-        "smoothie"
+        "pitta",
+        "spicy"
       ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
+      "prepTime": "10 mins",
+      "cookTime": "6 mins",
       "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "link": "https://www.bbcgoodfood.com/recipes/spicy-courgette-pitta-pockets"
     },
     {
       "id": "23",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "Tamarind prawn curry",
+      "image": "tamarind_prawn_curry",
+      "description": "Our tamarind prawn curry will quickly become a family favourite. It's quick, healthy and low in fat and calories.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "1 tbsp vegetable oil",
+        "1 onion, chopped",
+        "1 red chilli, finely chopped",
+        "2 garlic cloves, crushed",
+        "1 tbsp grated ginger",
+        "1 tsp turmeric",
+        "1 tsp cumin seeds",
+        "1 tsp ground coriander",
+        "400g can cherry tomatoes",
+        "1-2 tbsp tamarind paste (see tip, below)",
+        "250g raw king prawns",
+        "250g cooked basmati rice",
+        "handful of coriander leaves, to serve"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "Heat the oil in a frying pan over a medium heat and cook the onion for 5-8 mins until light golden. Stir in the chilli, garlic and ginger, and fry for another minute before adding the spices. Tip in the cherry tomatoes, swirl the can out with a splash of water and stir that into the pan as well.",
+        "STEP 2",
+        "Simmer for 5 mins until the tomatoes burst and the sauce thickens. Stir in the tamarind and prawns, and simmer for 2-3 mins until the prawns are cooked. Serve the curry on top of the rice, with the coriander scattered over."
       ],
       "tags": [
-        "1 serving",
+        "2 servings",
         "easy",
-        "smoothie"
+        "curry"
       ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "prepTime": "5 mins",
+      "cookTime": "15 mins",
+      "author": "Anna Glover",
+      "link": "https://www.bbcgoodfood.com/recipes/tamarind-prawn-curry"
     },
     {
       "id": "24",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "Easy butter chicken",
+      "image": "easy_butter_chicken",
+      "description": "Fancy a healthy version of your favourite Friday night curry? Try our easy butter chicken – the meat can be marinaded the day before so you can get ahead on your prep.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "500g skinless boneless chicken thighs",
+        "",
+        "For the marinade",
+        "",
+        "1 lemon, juiced",
+        "2 tsp ground cumin",
+        "2 tsp paprika",
+        "1-2 tsp hot chilli powder",
+        "200g natural yogurt",
+        "",
+        "For the curry",
+        "",
+        "2 tbsp vegetable oil",
+        "1 large onion, chopped",
+        "3 garlic cloves, crushed",
+        "1 green chilli, deseeded and finely chopped (optional)",
+        "thumb-sized piece ginger, grated",
+        "1 tsp garam masala",
+        "2 tsp ground fenugreek",
+        "3 tbsp tomato purée",
+        "300ml chicken stock",
+        "50g flaked almonds, toasted",
+        "",
+        "To serve (optional)",
+        "",
+        "cooked basmati rice",
+        "naan bread",
+        "mango chutney or lime pickle",
+        "fresh coriander",
+        "lime wedges"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "In a medium bowl, mix all the marinade ingredients with some seasoning. Chop the chicken into bite-sized pieces and toss with the marinade. Cover and chill in the fridge for 1 hr or overnight.",
+        "STEP 2",
+        "In a large, heavy saucepan, heat the oil. Add the onion, garlic, green chilli, ginger and some seasoning. Fry on a medium heat for 10 mins or until soft.",
+        "STEP 3",
+        "Add the spices with the tomato purée, cook for a further 2 mins until fragrant, then add the stock and marinated chicken. Cook for 15 mins, then add any remaining marinade left in the bowl. Simmer for 5 mins, then sprinkle with the toasted almonds. Serve with rice, naan bread, chutney, coriander and lime wedges, if you like."
       ],
       "tags": [
-        "1 serving",
+        "4 servings",
         "easy",
-        "smoothie"
+        "chicken"
       ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "prepTime": "15 mins",
+      "cookTime": "35 mins",
+      "author": "Jennifer Joyce",
+      "link": "https://www.bbcgoodfood.com/recipes/easy-butter-chicken"
     },
     {
       "id": "25",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "Classic fish & chips",
+      "image": "classic_fish_chips",
+      "description": "Skip the takeaway, and spend a little effort perfecting fish & chips at home – you'll be rewarded with crisp, deeply golden fish and moreish chips.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "about 1 litre sunflower oil, for frying",
+        "2 thick skinless fillets of whiting, ling, pollock, haddock or cod (about 150g each)",
+        "",
+        "For the chips",
+        "",
+        "2 large Maris Piper potatoes",
+        "1 tsp malt vinegar, plus extra to serve",
+        "",
+        "For the batter",
+        "",
+        "75g self-raising flour, plus extra for dusting",
+        "25g cornflour",
+        "small pinch of ground turmeric",
+        "125g cold lager or fizzy water",
+        "",
+        "For the tartare sauce",
+        "",
+        "4 cornichons",
+        "1 tsp capers",
+        "1 shallot",
+        "handful of parsley leaves, chopped",
+        "5 tbsp mayonnaise"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "Cut the potatoes into chips and soak in cold water for 5 mins, then wash until the water runs clear. Tip into a pan of cold water with a pinch of salt and 1 tsp vinegar. Bring to a simmer, then turn down the heat and simmer gently for 10-12 mins until cooked through but not falling apart. Drain gently, then place on a tray in a single layer and chill until needed. Can be prepared a day ahead.",
+        "STEP 2",
+        "To make the tartare sauce, chop the cornichons, capers and shallot (finely chop if you prefer a smooth sauce), then combine with the parsley, mayo and a pinch of salt. Will keep chilled for up to 24 hours.",
+        "STEP 3",
+        "When you’re ready to fry, prepare the batter. Tip the flours and turmeric into a bowl with a pinch of salt, pour over the beer or fizzy water, and mix quickly until everything just comes together to the consistency of double cream – do not over-beat, a few lumps are fine. Keep chilled.",
+        "STEP 4",
+        "Pour the oil into a deep, wide pan like a wok, or heat a deep-fat fryer to 180C. If using a pan or wok, ensure that it is no more than two-thirds full with oil. Heat the oil until it is shimmering and carefully lower in the chips using a slotted spoon. Fry for 8-10 mins, gently stirring occasionally until golden and crisp. Transfer to kitchen paper to drain.",
+        "STEP 5",
+        "Put a little flour in a dish, then bring the oil you used to cook the chips up to 185C, if you have a thermometer, or until a drizzle of batter sizzles and crisps in less than a minute. Working quickly, dust the fish in flour, then dredge through the batter. Hold the fillet above the batter to let the excess drip back into the bowl, then carefully lower into the oil. Fry the fillets for a minute until the batter is just starting to set, then take a spoon and drizzle the fillets with extra batter to create an even crunchier, wispy coating. Fry the fish for about 4 mins, turning once, until deep golden and crisp. Lift onto some kitchen paper to drain for a minute, then serve with the chips, tartare sauce, and plenty of salt and vinegar."
       ],
       "tags": [
-        "1 serving",
+        "2 servings",
         "easy",
-        "smoothie"
+        "fish",
+        "potatoes"
       ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "prepTime": "25 mins",
+      "cookTime": "30 mins",
+      "author": "Barney Desmazery",
+      "link": "https://www.bbcgoodfood.com/recipes/next-level-fish-chips"
     },
     {
       "id": "26",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "Chicken gyros",
+      "image": "chicken_gyros",
+      "description": "Barbecuing for a crowd? Make chicken gyros served with warm pittas to stuff with fresh tomatoes, onion, tzatziki and chips. Perfect for a summer gathering.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "12 boneless, skinless chicken thighs",
+        "",
+        "For the marinade",
+        "",
+        "500g Greek yogurt",
+        "2 lemons, juiced, ½ lemon zested",
+        "100ml olive oil",
+        "4 garlic cloves, very finely grated or crushed",
+        "1 tbsp ground coriander",
+        "1 tbsp ground cumin",
+        "1 tbsp sweet paprika",
+        "1 tsp dried oregano",
+        "1 tsp dried thyme",
+        "1 tsp cayenne pepper",
+        "1 tsp crushed black pepper",
+        "½ tsp ground cinnamon",
+        "",
+        "To serve",
+        "",
+        "2 red onions, halved and finely sliced",
+        "4 tomatoes (plum work well) halved and sliced"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "First, whisk all the marinade ingredients together with 1 tsp salt in a large bowl or, better still, a large plastic container that has a lid. Open out each chicken thigh, cover with a piece of baking parchment and flatten it with your hand, then lift off the paper and cut the thigh in half. Tip into the marinade and mix so it’s completely coated. Cover, chill and marinate for at least 1 hr or up to 24 hrs – the longer, the better.",
+        "STEP 2",
+        "Thread all the chicken onto two skewers so that both skewers go through each piece of meat, packing down tightly as you go to make a compact kebab (see tip, below).",
+        "STEP 3",
+        "Light a lidded barbecue, and let the flames die down. Once the coals have turned ashen, pile them up on one side with a single layer of coals scattered around the other side. Lay the chicken kebab on the side of the barbecue with only a few coals underneath. Put the lid down and cook for 45 mins, turning every 15 mins. To finish, lift the lid and roll the kebab over to the hotter side to char the meat, turning it every few minutes until well browned and cooked through. Prise the chicken pieces apart in the centre to check they’re cooked, or use a digital cooking thermometer – it should read 70C or more. Leave to rest for 5-10 mins while you cook the pittas (see recipe, opposite). Bring the kebab to the table and carve into thin slices with a serrated knife. Pile the carved meat into the warm pittas, then the sliced red onions and tomatoes, chips and tzatziki (see our recipes, below)."
       ],
       "tags": [
-        "1 serving",
+        "6 - 8 serving",
         "easy",
-        "smoothie"
+        "chicken"
       ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "prepTime": "40 mins",
+      "cookTime": "1 hour",
+      "author": "Barney Desmazery",
+      "link": "https://www.bbcgoodfood.com/recipes/big-barbecue-chicken-kebab"
     },
     {
       "id": "27",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "Simple sushi",
+      "image": "simple_sushi",
+      "description": "Kids can help with this Japanese dish. They can help cook the sticky rice and then roll and assemble the pieces with their preferred ingredients.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "For the rice",
+        "300g sushi rice",
+        "100ml rice wine vinegar",
+        "2 tbsp golden caster sugar",
+        "",
+        "For the Japanese mayonnaise",
+        "",
+        "3 tbsp mayonnaise",
+        "1 tbsp rice wine vinegar",
+        "1 tsp soy sauce",
+        "",
+        "For the sushi",
+        "",
+        "25g bag nori (seaweed) sheets",
+        "choose from the following fillings: cucumber strips, smoked salmon, white crabmeat, canned tuna, red pepper, avocado, spring onion",
+        "",
+        "To serve with all styles of sushi",
+        "",
+        "wasabi (optional - and fiery!)",
+        "pickled ginger",
+        "soy sauce"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "KIDS the writing in bold is for you. ADULTS the rest is for you. TO MAKE SUSHI ROLLS: Pat out some rice. Lay a nori sheet on the mat, shiny-side down. Dip your hands in the vinegared water, then pat handfuls of rice on top in a 1cm thick layer, leaving the furthest edge from you clear.",
+        "STEP 2",
+        "Spread over some Japanese mayonnaise. Use a spoon to spread out a thin layer of mayonnaise down the middle of the rice.",
+        "STEP 3",
+        "Add the filling. Get your child to top the mayonnaise with a line of their favourite fillings – here we’ve used tuna and cucumber.",
+        "STEP 4",
+        "Roll it up. Lift the edge of the mat over the rice, applying a little pressure to keep everything in a tight roll.",
+        "STEP 5",
+        "Stick down the sides like a stamp. When you get to the edge without any rice, brush with a little water and continue to roll into a tight roll.",
+        "STEP 6",
+        "Wrap in cling film. Remove the mat and roll tightly in cling film before a grown-up cuts the sushi into thick slices, then unravel the cling film.",
+        "STEP 7",
+        "TO MAKE PRESSED SUSHI: Layer over some smoked salmon. Line a loaf tin with cling film, then place a thin layer of smoked salmon inside on top of the cling film.",
+        "STEP 8",
+        "Cover with rice and press down. Press about 3cm of rice over the fish, fold the cling film over and press down as much as you can, using another tin if you have one.",
+        "STEP 9",
+        "Tip it out like a sandcastle. Turn block of sushi onto a chopping board. Get a grown-up to cut into fingers, then remove the cling film.",
+        "STEP 10",
+        "TO MAKE SUSHI BALLS: Choose your topping. Get a small square of cling film and place a topping, like half a prawn or a small piece of smoked salmon, on it. Use damp hands to roll walnut-sized balls of rice and place on the topping.",
+        "STEP 11",
+        "Make into tight balls. Bring the corners of the cling film together and tighten into balls by twisting it up, then unwrap and serve."
       ],
       "tags": [
-        "1 serving",
+        "6 serving",
         "easy",
-        "smoothie"
+        "sushi"
       ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "prepTime": "40 mins",
+      "cookTime": "15 mins",
+      "author": "Barney Desmazery",
+      "link": "https://www.bbcgoodfood.com/recipes/simple-sushi"
     },
     {
       "id": "28",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "The big double cheeseburger & secret sauce",
+      "image": "the_big_double_cheeseburger_secret_sauce",
+      "description": "Forget the takeaway and make homemade cheeseburgers – double decker versions. With gherkins, crisp lettuce and a secret sauce, they take some beating.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "1 small onion, finely chopped",
+        "4 sesame-topped burger buns",
+        "300g steak mince",
+        "1 tbsp sunflower oil",
+        "small wedge of iceberg lettuce, finely shredded",
+        "2 slices of mild cheddar or burger cheese",
+        "1 gherkin sliced lengthways",
+        "oven fries, to serve",
+        "",
+        "For the secret sauce",
+        "",
+        "100g mayonnaise",
+        "1 tbsp American mustard",
+        "large pinch garlic granules",
+        "large pinch onion granules",
+        "¼ tsp smoked paprika",
+        "1 tbsp white wine vinegar",
+        "1 tsp pickle relish or finely chopped gherkin"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "Tip the onions into a small bowl and pour over boiling water from the kettle until just covered. Leave to cool. Put all the sauce ingredients in another small bowl, then add 1 tbsp of the cooled onion water and mix until everything is evenly combined. Set aside.",
+        "STEP 2",
+        "Halve two of the burger buns, then cut a thick slice from the middles of the other two buns. Toast or grill the middle slices on both sides and the other buns only on the cut sides, then set aside. Heat the oven to 100C/80C fan/gas 2.",
+        "STEP 3",
+        "Divide the mince into four loose piles and season. Heat ¼ tbsp of the oil in a heavy frying pan or skillet over a high heat and put one of the piles of beef in the pan. Working quickly, cover with a square of baking parchment and carefully use a second pan to press the beef patties down – be careful of the heat and rising steam as you do this. Keep the patties pressed down for about 10 seconds, then remove the weight and the paper, and leave the burger to cook for 2 mins more. Turn the patties and press down using a spatula, cooking for another 1 min. Transfer to a tray and keep warm in the oven while you cook the other burgers in the same way.",
+        "STEP 4",
+        "When all the patties are cooked, it’s time to assemble the burgers. Spread some sauce over the bun bases, scatter with onions, then add lettuce, followed by a cheese slice, then a patty, a few gherkin slices and a middle slice of toasted bun. Spread over more sauce, then add more onions, lettuce, another patty and the bun tops. Serve with the oven fries and extra sauce on the side, if you like."
       ],
       "tags": [
-        "1 serving",
+        "2 servings",
         "easy",
-        "smoothie"
+        "burger"
       ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "prepTime": "25 mins",
+      "cookTime": "15 mins",
+      "author": "Barney Desmazery",
+      "link": "https://www.bbcgoodfood.com/recipes/the-big-double-cheeseburger-secret-sauce"
     },
     {
       "id": "29",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "Seitan & black bean stir-fry",
+      "image": "seitan_black_bean_stir_fry",
+      "description": "This handy vegan stir-fry makes a satisfying supper, with a sticky sweet and spicy sauce. Seitan, peanut butter and a mix of veggies is a winning combination.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "For the sauce",
+        "",
+        "400g can black beans , drained and rinsed",
+        "75g dark brown soft sugar",
+        "3 garlic cloves",
+        "2 tbsp soy sauce",
+        "1 tsp Chinese five-spice powder",
+        "2 tbsp rice vinegar",
+        "1 tbsp smooth peanut butter",
+        "1 red chilli , finely chopped",
+        "",
+        "For the stir-fry",
+        "",
+        "350g marinated seitan pieces",
+        "1 tbsp cornflour",
+        "2-3 tbsp vegetable oil",
+        "1 red pepper , sliced",
+        "300g pak choi , chopped",
+        "2 spring onions , sliced",
+        "cooked rice noodles or rice, to serve"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "Start by making the sauce, tip half the beans into the bowl of a food processor with the rest of the ingredients and add 50ml water. Season, then blend until smooth. Pour into a saucepan and heat gently for about 5 mins or until thick and glossy.",
+        "STEP 2",
+        "Drain the seitan and pat dry with kitchen paper. Toss the seitan pieces in a bowl with the cornflour and set aside. Heat your wok to a high temperature, add a little oil, then the seitan – you might need to do this in batches. Stir-fry for around 5 mins until golden brown at the edges. Remove the seitan from the wok using a slotted spoon and set aside on a plate.",
+        "STEP 3",
+        "If the wok is dry at this stage, add 1 tsp vegetable oil. Throw in the chopped peppers, the rest of the beans, pak choi and spring onion. Cook for 3-4 mins, then return the seitan to the pan, stir in the sauce and bring to the boil for 1 min. Serve with cooked rice or noodles."
       ],
       "tags": [
-        "1 serving",
+        "4 servings",
         "easy",
-        "smoothie"
+        "stir-fry"
       ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "prepTime": "20 mins",
+      "cookTime": "25 mins",
+      "author": "Miriam Nice",
+      "link": "https://www.bbcgoodfood.com/recipes/seitan-black-bean-stir-fry"
     },
     {
       "id": "30",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "Salt and pepper chicken",
+      "image": "salt_pepper_chicken",
+      "description": "Make this easy, spicy salt and pepper chicken dish at home instead of ordering a takeaway. It's cooked with Asian greens in honey and soy, with a hint of Chinese five-spice.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "500g skinless, boneless chicken thighs",
+        "1 tsp flaky sea salt",
+        "1 tsp Sichuan peppercorns (use normal peppercorns if you can't find these)",
+        "1 tbsp cornflour",
+        "1 tsp Chinese five-spice powder",
+        "1 tsp sesame seeds",
+        "1 tbsp olive oil",
+        "1 tbsp soy sauce",
+        "1 tbsp honey",
+        "250g Asian greens such as pak choi",
+        "handful chopped coriander , sliced spring onions and cooked rice (to serve)"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "Cut the chicken thighs into strips. Crush the salt with the peppercorns in a pestle and mortar, then mix with the cornflour and five-spice and tip into a sandwich bag. Tip the chicken into the bag and shake well to coat in the flour mixture.",
+        "STEP 2",
+        "Toss the sesame seeds in a pan over a medium heat and lightly toast, for around a minute, then add the olive oil. Add the chicken and cook for 7-8 mins until golden brown.",
+        "STEP 3",
+        "Mix the soy and honey and tip into the pan along with the Asian greens, cook for 2-3 mins further until everything is well coated and the greens are cooked through. Serve topped with coriander and sliced spring onions alongside some cooked rice."
       ],
       "tags": [
-        "1 serving",
+        "2-3 servings",
         "easy",
-        "smoothie"
+        "chicken"
       ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "prepTime": "10 mins",
+      "cookTime": "15 mins",
+      "author": "Elena Silcock",
+      "link": "https://www.bbcgoodfood.com/recipes/salt-pepper-chicken"
     },
     {
       "id": "31",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "title": "Cabbage & chilli slaw",
+      "image": "cabbage_chilli_slaw",
+      "description": "Serve this cabbage and chilli slaw with doner kebabs. Chill for a day or two, and it will soften and transform into a lighter, kimchi-style slaw.",
       "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
+        "½ white cabbage , finely sliced",
+        ",½ quantity smoky chilli sauce (see recipe in 'Goes well with', below)",
+        "½ lemon , juiced",
+        "8 spring onions , trimmed and finely sliced on an angle"
       ],
       "cookingSteps": [
         "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+        "Toss the cabbage in a bowl with ½ tsp salt. Set aside for 30 mins, then rinse under cold running water. Leave to dry in a colander.",
+        "STEP 2",
+        "Return the cabbage to the bowl and toss with the chilli sauce, lemon juice and spring onions. Will keep in the fridge for up to two days."
       ],
       "tags": [
-        "1 serving",
+        "8 servings",
         "easy",
-        "smoothie"
+        "slaw",
+        "chilli"
       ],
-      "prepTime": "3 mins",
+      "prepTime": "5 mins",
       "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "32",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "33",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "34",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "35",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "36",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "37",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "38",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "39",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "40",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "41",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "42",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "43",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "44",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "45",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "46",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "47",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "48",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
-    },
-    {
-      "id": "49",
-      "title": "Forest fruit & banana smoothie",
-      "image": "forest_fruit_banana_smoothie",
-      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
-      "ingredients": [
-        "frozen fruits of the forest",
-        "banana, sliced",
-        "low-fat fruits of the forest yogurt"
-      ],
-      "cookingSteps": [
-        "STEP 1",
-        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
-      ],
-      "tags": [
-        "1 serving",
-        "easy",
-        "smoothie"
-      ],
-      "prepTime": "3 mins",
-      "cookTime": "0 mins",
-      "author": "Good Food team",
-      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+      "author": "Tom Kerridge",
+      "link": "https://www.bbcgoodfood.com/recipes/cabbage-chilli-slaw"
     }
   ]
 }
