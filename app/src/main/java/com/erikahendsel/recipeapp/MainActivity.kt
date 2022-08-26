@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         try {
             val obj = JSONObject(getJSONFromAssets()!!)
             val recipesArray = obj.getJSONArray("recipes")
-            for (i in 0..3) {
+            for (i in 0..recipesArray.length()) {
                 val recipe = recipesArray.getJSONObject(i)
                 val id = recipe.getString("id")
                 val title = recipe.getString("title")
