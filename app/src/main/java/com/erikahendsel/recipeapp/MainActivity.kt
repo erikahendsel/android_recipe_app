@@ -41,7 +41,6 @@ class MainActivity : AppCompatActivity() {
                 val ingredients = convertJSONArrayToStringList(recipe.getJSONArray("ingredients"))
                 val cookingSteps = convertJSONArrayToStringList(recipe.getJSONArray("cookingSteps"))
                 val tags =  convertJSONArrayToStringList(recipe.getJSONArray("tags"))
-                Log.d("TAGS", "${tags}")
                 val prepTime = recipe.getString("prepTime")
                 val cookTime = recipe.getString("cookTime")
                 val author = recipe.getString("author")
@@ -55,17 +54,12 @@ class MainActivity : AppCompatActivity() {
             e.printStackTrace()
         }
 
-        //LinearLayoutManager was used before
         binding.rvRecipeList.layoutManager = GridLayoutManager(this, 2)
         val itemAdapter = RecipeAdapter(this, recipeList)
         var adapter = itemAdapter
         binding.rvRecipeList.adapter = adapter
         adapter.setOnItemClickListener(object : RecipeAdapter.OnRecipeClickListener {
             override fun onItemClick(position: Int) {
-                Toast.makeText(this@MainActivity, "You clicked $position", Toast.LENGTH_SHORT).show()
-                Log.d("RECIPELIST", "${recipeList[position].image} image")
-
-
                 Intent(this@MainActivity, RecipeDetails::class.java).also {
                     it.putExtra("RECIPE_TITLE", recipeList[position].title)
                     it.putExtra("RECIPE_IMAGE", recipeList[position].image)

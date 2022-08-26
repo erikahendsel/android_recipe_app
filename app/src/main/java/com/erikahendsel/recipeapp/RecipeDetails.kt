@@ -31,10 +31,6 @@ class RecipeDetails : AppCompatActivity() {
         val recipeCookTime = intent.getStringExtra("RECIPE_COOK_TIME")
         val recipeAuthor = intent.getStringExtra("RECIPE_AUTHOR")
         val recipeLink = intent.getStringExtra("RECIPE_LINK")
-        Log.d(
-            "RECIPELIST",
-            "$recipeImage, $recipeTitle, $recipeDescription, $recipeCookTime, $recipeTags"
-        )
 
         val ingredientsWithLineSeparator = addLineSeparatorToArray(recipeIngredients)
         val cookingStepsWithLineSeparator = addLineSeparatorToArray(recipeCookingSteps)
@@ -50,19 +46,17 @@ class RecipeDetails : AppCompatActivity() {
         binding.tvSteps.text = TextUtils.join("", cookingStepsWithLineSeparator)
         binding.tvAuthor.text = "- By $recipeAuthor"
         binding.tvLink.text = recipeLink
-//        binding.tvLink.setOnClickListener {
-//            val webIntent: Intent = Uri.parse(recipeLink).let { webpage ->
-//                Intent(Intent.ACTION_VIEW, webpage)
-//            }
-//            startActivity(webIntent)
-//        }
     }
 
     private fun addLineSeparatorToArray(passedArrayList: ArrayList<String>?): ArrayList<String> {
         val passedArrayWithLineSeparator: ArrayList<String> = ArrayList()
         if (passedArrayList != null) {
             for (i in 0 until passedArrayList.size) {
-                passedArrayWithLineSeparator.add("${passedArrayList[i]} ${System.getProperty("line.separator")}")
+                if(passedArrayList[i].contains("STEP", ignoreCase = false)) {
+                    passedArrayWithLineSeparator.add("${System.getProperty("line.separator")}${passedArrayList[i]} ${System.getProperty("line.separator")}")
+                } else {
+                    passedArrayWithLineSeparator.add("${passedArrayList[i]} ${System.getProperty("line.separator")}")
+                }
             }
         }
         return passedArrayWithLineSeparator

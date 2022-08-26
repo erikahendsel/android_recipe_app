@@ -42,19 +42,9 @@ class RecipeAdapter(var context: Context, var items: ArrayList<RecipeModelClass>
     //That's why, it's not a great idea to put a onCLickListener here
     override fun onBindViewHolder(holder: RecipeViewHolder, position: Int) {
         holder.binding.apply {
-
-//            imgImage.setImageURI(items[position].image.toUri())
-//         val test: Int = this@RecipeAdapter.context.resources.getIdentifier(items[position].image, "drawable", this@RecipeAdapter.context.packageName)
-            //val test = context.resources.getIdentifier(items[position].image, "drawable", context.packageName)
-            //getResources().getIdentifier(recipe.getString("image"), "drawable", getPackageName());
-
-
-//            imgImage.setImageResource(items[position].image)
             imgImage.setImageDrawable(context.getDrawable(items[position].image))
             tvTitle.text = items[position].title
-            Log.d("WALI", "${items[position].tags}")
             tvTags.text = items[position].tags.toString().replace("[", "").replace("]", "")
-
         }
     }
 

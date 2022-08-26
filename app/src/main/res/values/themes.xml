@@ -12,5 +12,11 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="backgroundColor">#EDEDED</item>
+        <item name="cardBackgroundColor">#FFFFFF</item>
+        <item name="cardForegroundColor">#CABBBBBB</item>
+
+        <item name="prepIcon">@drawable/ic_prep_time_light_theme</item>
+        <item name="cookIcon">@drawable/ic_cooking_time_light_theme</item>
     </style>
 </resources>
