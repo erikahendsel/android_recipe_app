@@ -11,5 +11,7 @@ data class RecipeModelClass(
     val cookingSteps: List<String>,
     val tags: List<String>,
     val prepTime: String,
-    val cookTime: String
+    val cookTime: String,
+    val author: String,
+    val link: String
 )

@@ -1,12 +1,9 @@
 package com.erikahendsel.recipeapp
 
-import android.R
 import android.content.Context
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import android.widget.ImageView
-import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.erikahendsel.recipeapp.Model.RecipeModelClass
 import com.erikahendsel.recipeapp.databinding.RecipeRowLayoutBinding
@@ -56,7 +53,7 @@ class RecipeAdapter(var context: Context, var items: ArrayList<RecipeModelClass>
             imgImage.setImageDrawable(context.getDrawable(items[position].image))
             tvTitle.text = items[position].title
             Log.d("WALI", "${items[position].tags}")
-            tvTags.text = items[position].tags.toString()
+            tvTags.text = items[position].tags.toString().replace("[", "").replace("]", "")
 
         }
     }

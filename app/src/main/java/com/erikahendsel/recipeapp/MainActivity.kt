@@ -44,7 +44,9 @@ class MainActivity : AppCompatActivity() {
                 Log.d("TAGS", "${tags}")
                 val prepTime = recipe.getString("prepTime")
                 val cookTime = recipe.getString("cookTime")
-                val recipeDetails = RecipeModelClass(id, title, image, description, ingredients, cookingSteps, tags, prepTime, cookTime)
+                val author = recipe.getString("author")
+                val link = recipe.getString("link")
+                val recipeDetails = RecipeModelClass(id, title, image, description, ingredients, cookingSteps, tags, prepTime, cookTime, author, link)
                 recipeList.add(recipeDetails)
 
             }
@@ -73,6 +75,8 @@ class MainActivity : AppCompatActivity() {
                     it.putStringArrayListExtra("RECIPE_TAGS", ArrayList(recipeList[position].tags))
                     it.putExtra("RECIPE_PREP_TIME", recipeList[position].prepTime)
                     it.putExtra("RECIPE_COOK_TIME", recipeList[position].cookTime)
+                    it.putExtra("RECIPE_AUTHOR", recipeList[position].author)
+                    it.putExtra("RECIPE_LINK", recipeList[position].link)
                     startActivity(it)
                 }
             }

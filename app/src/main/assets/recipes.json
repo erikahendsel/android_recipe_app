@@ -24,57 +24,177 @@
         "STEP 3",
         "Remove and discard the bay leaf, then remove the mushroom mixture from the heat and blitz using a hand blender until smooth. Gently reheat the soup and stir through the cream (or, you could freeze the soup at this stage – simply stir through the cream when heating). Scatter over the parsley, if you like, and serve.\n"
       ],
-      "tags": ["soup", "4 servings"],
-      "prepTime": "50",
-      "cookTime": "50"
+      "tags": [
+        "4 servings",
+        "easy",
+        "soup",
+        "mushrooms"
+      ],
+      "prepTime": "10 mins",
+      "cookTime": "25 mins",
+      "author": "tarilang",
+      "link": "https://www.bbcgoodfood.com/recipes/mushroom-soup"
     },
     {
       "id": "1",
-      "title": "Meaty burger",
-      "image": "mushroom_soup",
-      "description": "lots of text here",
+      "title": "10-minute couscous salad",
+      "image": "couscous_salad",
+      "description": "This makes a great lunchbox filler for a day out and is equally good at home from the fridge.",
       "ingredients": [
-        "90g butter",
-        "2 medium onions, roughly chopped",
-        "1 garlic clove, crushed",
-        "500g mushrooms, finely chopped (chestnut or button mushrooms work well)",
-        "2 tbsp plain flour",
-        "1l hot chicken stock",
-        "1 bay leaf",
-        "4 tbsp single cream",
-        "small handful flat-leaf parsley, roughly chopped, to serve (optional)"
+        "100g couscous",
+        "200ml hot low salt vegetable stock (from a cube is fine)",
+        "2 spring onions",
+        "1 red pepper",
+        "½ cucumber",
+        "50g feta cheese, cubed",
+        "2tbsp pesto",
+        "2tbsp pine nuts"
       ],
       "cookingSteps": [
-        "1",
-        "2"
+        "STEP 1",
+        "Tip the couscous into a large bowl and pour over the stock. Cover, then leave for 10 mins until fluffy and all the stock has been absorbed. Meanwhile, slice the onions and pepper, and dice the cucumber. Add these to the couscous, fork through the pesto, crumble in the feta, then sprinkle over pine nuts to serve."
       ],
-      "tags": ["pig", "salad"],
-      "prepTime": "50",
-      "cookTime": "50"
+      "tags": [
+        "2 servings",
+        "easy",
+        "couscous",
+        "salad"
+      ],
+      "prepTime": "10 mins",
+      "cookTime": "0",
+      "author": "Good Food team",
+      "link": "https://www.bbcgoodfood.com/recipes/10minute-couscous-salad"
     },
     {
       "id": "2",
-      "title": "sheep burger",
-      "image": "mushroom_soup",
-      "description": "lots of text here",
+      "title": "Caponata pasta",
+      "image": "caponata_pasta",
+      "description": "Whip up our easy vegetarian caponata pasta in just 20 minutes. It's simple to make, budget-friendly and packs three of your five-a-day into one delicious meal.",
       "ingredients": [
-        "90g butter",
-        "2 medium onions, roughly chopped",
-        "1 garlic clove, crushed",
-        "500g mushrooms, finely chopped (chestnut or button mushrooms work well)",
-        "2 tbsp plain flour",
-        "1l hot chicken stock",
-        "1 bay leaf",
-        "4 tbsp single cream",
-        "small handful flat-leaf parsley, roughly chopped, to serve (optional)"
+        "4 tbsp olive oil (or use the oil from your chargrilled veg, see below)",
+        "1 large onion, finely chopped",
+        "4 garlic cloves, finely sliced",
+        "250g chargrilled Mediterranean veg (peppers and aubergines, if possible) from a jar, pot or deli counter, drained if in oil (you can use this oil in place of the olive oil) and roughly chopped",
+        "400g can chopped tomatoes",
+        "1 tbsp small capers",
+        "2 tbsp raisins",
+        "350g rigatoni, penne or another short pasta shape",
+        "bunch basil leaves, picked",
+        "parmesan (or vegetarian alternative), shaved, to serve"
       ],
       "cookingSteps": [
-        "1",
-        "2"
+        "STEP 1",
+        "Heat the oil in a large pan and cook the onion for 8-10 mins until starting to caramelise (or for longer if you have time – the sweeter the better). Add the garlic for the final 2 mins of cooking time.",
+        "STEP 2",
+        "Tip in the mixed veg, tomatoes, capers and raisins. Season well and simmer, uncovered, for 10 mins, or until you have a rich sauce.",
+        "STEP 3",
+        "Meanwhile, boil the kettle. Pour the kettleful of water into a large pan with a little salt and bring back to the boil. Add the pasta and cook until tender with a little bite, then drain, reserving some of the pasta water. Tip the pasta into the sauce, adding a splash of pasta water if it needs loosening. Scatter with the basil leaves and parmesan, if you like, and serve straight from the pan"
       ],
-      "tags": ["pig", "salad"],
-      "prepTime": "50",
-      "cookTime": "50"
+      "tags": [
+        "4 servings",
+        "easy",
+        "pasta"
+      ],
+      "prepTime": "2 mins",
+      "cookTime": "18 mins",
+      "author": "Cassie Best",
+      "link": "https://www.bbcgoodfood.com/recipes/caponata-pasta"
+    },
+    {
+      "id": "3",
+      "title": "Forest fruit & banana smoothie",
+      "image": "forest_fruit_banana_smoothie",
+      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "ingredients": [
+        "frozen fruits of the forest",
+        "banana, sliced",
+        "low-fat fruits of the forest yogurt"
+      ],
+      "cookingSteps": [
+        "STEP 1",
+        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+      ],
+      "tags": [
+        "1 serving",
+        "easy",
+        "smoothie"
+      ],
+      "prepTime": "3 mins",
+      "cookTime": "0 mins",
+      "author": "Good Food team",
+      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+    },
+    {
+      "id": "4",
+      "title": "Forest fruit & banana smoothie",
+      "image": "forest_fruit_banana_smoothie",
+      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "ingredients": [
+        "frozen fruits of the forest",
+        "banana, sliced",
+        "low-fat fruits of the forest yogurt"
+      ],
+      "cookingSteps": [
+        "STEP 1",
+        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+      ],
+      "tags": [
+        "1 serving",
+        "easy",
+        "smoothie"
+      ],
+      "prepTime": "3 mins",
+      "cookTime": "0 mins",
+      "author": "Good Food team",
+      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+    },
+    {
+      "id": "5",
+      "title": "Forest fruit & banana smoothie",
+      "image": "forest_fruit_banana_smoothie",
+      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "ingredients": [
+        "frozen fruits of the forest",
+        "banana, sliced",
+        "low-fat fruits of the forest yogurt"
+      ],
+      "cookingSteps": [
+        "STEP 1",
+        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+      ],
+      "tags": [
+        "1 serving",
+        "easy",
+        "smoothie"
+      ],
+      "prepTime": "3 mins",
+      "cookTime": "0 mins",
+      "author": "Good Food team",
+      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
+    },
+    {
+      "id": "6",
+      "title": "Forest fruit & banana smoothie",
+      "image": "forest_fruit_banana_smoothie",
+      "description": "For a smooth start to your day try this ultra-easy breakfast drink.",
+      "ingredients": [
+        "frozen fruits of the forest",
+        "banana, sliced",
+        "low-fat fruits of the forest yogurt"
+      ],
+      "cookingSteps": [
+        "STEP 1",
+        "Whizz frozen fruits of the forest and sliced banana in a food processor with low-fat fruits of the forest yogurt."
+      ],
+      "tags": [
+        "1 serving",
+        "easy",
+        "smoothie"
+      ],
+      "prepTime": "3 mins",
+      "cookTime": "0 mins",
+      "author": "Good Food team",
+      "link": "https://www.bbcgoodfood.com/recipes/forest-fruit-banana-smoothie"
     }
   ]
 }
